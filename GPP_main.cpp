@@ -1,5 +1,5 @@
 #include <iostream>
-#include "InputReader.h"
+#include "Reader.h"
 #include "Graph.h"
 #include "Partitioner.h"
 #include <vector>
